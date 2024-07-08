@@ -267,11 +267,11 @@ main section {
     }
     .main-text h6 {
         position: absolute;
-        top: 130%;
+        top: 100%;
     }
     .btn{
         position: absolute;
-        top: 145%;
+        top: 125%;
     }
     /*header responsivo*/
     .navigation {
