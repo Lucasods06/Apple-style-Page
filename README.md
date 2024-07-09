@@ -4,6 +4,7 @@
 <ul>
     <li>HTML</li>
     <li>CSS</li>
+    <li>JavaScript</li>
     <li>GIT E GITHUB</li>
 </ul>
 
